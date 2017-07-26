@@ -1,3 +1,2 @@
 # Procesamiento de señales
-Repositorio para el curso procesamiento de señales de la Universidad de Medellín
-$$c_2$$
+Repositorio para el curso Procesamiento de Señales de la Universidad de Medellín
